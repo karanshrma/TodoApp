@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "746535290984",
+    "firebase_url": "https://to-do-app-4f35d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "to-do-app-4f35d",
+    "storage_bucket": "to-do-app-4f35d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746535290984:android:dc355624ddbccca5b593dd",
+        "android_client_info": {
+          "package_name": "com.example.to_doapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjKTrAo0lCYt7UgyPXOBPG9emkoYaRXVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746535290984:android:1e8c89a61e5432dfb593dd",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjKTrAo0lCYt7UgyPXOBPG9emkoYaRXVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
